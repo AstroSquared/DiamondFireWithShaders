@@ -1,4 +1,4 @@
-# DiamondfireWithShaders
+# DiamondFireWithShaders
 
 * [node1_1](images/node1_1.png)
 * [node1_2](images/node1_2.png)
