@@ -69,4 +69,4 @@ Example use cases:
 * ![node7_9](images/node7_9.png)
 * ![node7_10](images/node7_10.png)
 * ![node7_11](images/node7_11.png)
-* ![node7_12](images/node7_12.png) by LostInJapan
+* ![node7_12](images/node7_12.png) by LostInJapan (shader: RTX)
