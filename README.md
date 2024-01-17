@@ -1,7 +1,7 @@
 # DiamondFireWithShaders
 DiamondFire spawns with shaders
 
-View the images on Github Pages: https://squaredstudios-mc.github.io/DiamondFireWithShaders/
+View the images on Github Pages: https://astrosquared.github.io/DiamondFireWithShaders/
 
 ## Shader pack
 Complementary Shaders v4.0.1
